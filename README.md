@@ -1,4 +1,4 @@
-### hey there 
+### hey there! Check out my linkedin(link below), also take a look at my repos!_)
 <a href="https://t.me/ilyak52">
   <img align="left" alt="Ilyaks tg" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" />
 </a>
@@ -11,6 +11,8 @@
   
 - 💼 any Senior/Teamlead nodejs work? do reach, [email](mailto:ilyaprgrmist@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
+-  Also trying to find some time for C++/C#/linux/bash
+
 
 **languages and tools:**  
 
