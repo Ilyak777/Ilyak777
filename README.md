@@ -30,17 +30,6 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-📊 **this week i spent my time on:**
-<!--START_SECTION:waka-->
-
-```txt
-TypeScript   16 hrs 57 mins  ██████████████████████▒░░   88.68 %
-JSON         51 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.47 %
-Bash         40 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 %
-Other        16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.41 %
-Jinja2       11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 %
-```
-
 
 
 
