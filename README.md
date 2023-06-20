@@ -12,10 +12,6 @@
 - 💼 any Senior/Teamlead nodejs work? do reach, [email](mailto:ilyaprgrmist@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
 -  Also trying to find some time for C++/C#/linux/bash
-
-
-
-
 **languages and tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
