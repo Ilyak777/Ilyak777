@@ -2,9 +2,6 @@
 <a href="https://t.me/ilyak52">
   <img align="left" alt="Ilyaks tg" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" />
 </a>
-<a href="https://www.linkedin.com/in/ilya-kvasov-48b792278/">
-  <img align="left" alt="Ilyaks LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
 
 <br />
   <img align="right" alt="GIF" src="https://i.makeagif.com/media/4-02-2016/2wRZ-Q.gif" width="350" height="200" />
