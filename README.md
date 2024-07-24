@@ -9,7 +9,7 @@
 <br />
   <img align="right" alt="GIF" src="https://i.makeagif.com/media/4-02-2016/2wRZ-Q.gif" width="350" height="200" />
   
-- 💼 any Senior/Teamlead Backend Web3/Steam Store connected work? do reach, [email](mailto:ilyaprgrmist@gmail.com) :)
+- 💼 any Backend Web3/Steam Store connected work? do reach, [email](mailto:ilyaprgrmist@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
 **languages and tools:**  
 
